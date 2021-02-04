@@ -15,31 +15,31 @@ body {
     background-image: url('../img/spinning.gif');
 }
 
-.wheel .result-0 {
+.wheel.result-0 {
     background-image: url('../img/7.png');
 }
 
-.wheel .result-1 {
+.wheel.result-1 {
     background-image: url('../img/duck.png');
 }
 
-.wheel .result-2 {
+.wheel.result-2 {
     background-image: url('../img/magnet.png');
 }
 
-.wheel .result-3 {
+.wheel.result-3 {
     background-image: url('../img/pikachu.png');
 }
 
-.wheel .result-4 {
+.wheel.result-4 {
     background-image: url('../img/pokeball.png');
 }
 
-.wheel .result-5 {
+.wheel.result-5 {
     background-image: url('../img/r.png');
 }
 
-.wheel .result-6 {
+.wheel.result-6 {
     background-image: url('../img/shell.png');
 }
 
