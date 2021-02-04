@@ -1,4 +1,45 @@
 body {
     background-color: black;
     color: white;
+    min-height: 100vh;
+    /*
+    display: flex;
+    flex-direction: column;
+    */
 }
+
+.wheel {
+    display: inline-block;
+    width: 254px;
+    height: 544px;
+    background-image: url('../img/spinning.gif');
+}
+
+.wheel .result-0 {
+    background-image: url('../img/7.png');
+}
+
+.wheel .result-1 {
+    background-image: url('../img/duck.png');
+}
+
+.wheel .result-2 {
+    background-image: url('../img/magnet.png');
+}
+
+.wheel .result-3 {
+    background-image: url('../img/pikachu.png');
+}
+
+.wheel .result-4 {
+    background-image: url('../img/pokeball.png');
+}
+
+.wheel .result-5 {
+    background-image: url('../img/r.png');
+}
+
+.wheel .result-6 {
+    background-image: url('../img/shell.png');
+}
+
